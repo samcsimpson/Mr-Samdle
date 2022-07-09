@@ -1,5 +1,6 @@
 # Mr-Samdle
-No more tears in the class room! Play Wordle and NEVER lose! 
+No more tears in the class room! Play Wordle and NEVER lose!
+
 ![](https://github.com/samcsimpson/Mr-Samdle/blob/main/MrSamdle.gif)
 
 
